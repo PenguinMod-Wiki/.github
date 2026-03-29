@@ -1,4 +1,4 @@
-<center>## PenguinMod Wiki</center>
+<h2>PenguinMod Wiki</h2>
 
 This is the GitHub profile of your friendly neighborhood PenguinMod Wiki. This is where MediaWiki plugins maintained by the PenguinMod Wiki for the PenguinMod Wiki are hosted.
 
